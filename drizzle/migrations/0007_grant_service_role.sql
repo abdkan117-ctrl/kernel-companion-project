@@ -1,1 +1,0 @@
-GRANT ALL ON public.questions, public.question_sets, public.rooms, public.players, public.answers TO service_role;
